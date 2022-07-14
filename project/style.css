@@ -1,0 +1,226 @@
+body{
+
+    background-color: #fff;
+}
+
+h1{
+
+    text-align: center;
+}
+
+.foodreal{
+    height: 300px;
+    width: 100%;
+}
+
+.menu{
+
+    font-size: 50px;
+}
+
+.foods{
+
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.ghormeh{
+
+    margin-top: 100px;
+    width: 300px;
+    border-radius: 20px;
+
+}
+
+.button{
+
+    border: none;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.about{
+
+    font-size: 20px;
+}
+
+.khoresht{
+
+height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.khoresht{
+
+    margin-top: 20px;
+    
+}
+
+.button2{
+
+    border: none;
+    padding: 20px;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.food2{
+
+    position: relative;
+    left: 400px;
+    bottom: 400px;
+}
+
+nav{
+
+    background-color: black;
+    border-radius: 10px;
+}
+
+ui{
+    text-align: center;
+    
+}
+
+li{
+
+    display: inline-block;
+    padding: 30px;
+    color: #fff;
+}
+
+.fa-bars{
+
+    color: white;
+}
+
+.fa-cog{
+    color: white;
+}
+
+.fa-user{
+    color: #fff;
+}
+
+.fa-cutlery{
+
+    color: #fff;
+}
+
+.fa-home{
+
+    color: #fff;
+}
+
+.kabab{
+
+    position: relative;
+    left: 380px;
+    bottom: 400px;
+}
+
+.kobideh{
+
+    width: 300p;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.button3{
+
+    border: none;
+    padding: 20px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: black;
+}
+
+.maka{
+
+    width: 300px;
+    border-radius: 20px;
+}
+
+.pasta{
+
+    position: relative;
+    right: 400px;
+    bottom: 330px;
+}
+
+.button4{
+    border: none;
+    padding: 20px;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+input{
+    position: relative;
+    left: 900px;
+    bottom: 70px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.fa-search{
+    color: #fff;
+    position: relative;
+    left: 890px;
+    bottom: 70px;
+}
+
+.san{
+
+    width: 300px;
+    border-radius: 20px;
+}
+
+.ham{
+    position: relative;
+    left: 400px;
+    bottom: 330px;
+}
+
+.button5{
+    border: none;
+    padding: 20px;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.pic{
+
+    width: 300px;
+    border-radius: 20px;
+}
+
+.pitzaa{
+    position: relative;
+    left: 400px;
+    bottom: 330px;
+}
+
+.button6{
+    border: none;
+    padding: 20px;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+}
